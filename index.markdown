@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 Hi I'm Ben AKA 32bitFlame. Welcome to my blog. Here I will post programming experiences, interesting bugs, projects 
 and other computer releated happenings of note. For frame of reference I am a student and programmer by hobby.
