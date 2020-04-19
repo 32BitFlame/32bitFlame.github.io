@@ -6,7 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://32bitFlame.github.io"
 githu_username:  32bitFlame
 
-theme: minimal-mistakes-jekyll
+remote_theme: "32bitFlame/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
