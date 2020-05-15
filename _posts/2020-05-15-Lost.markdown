@@ -1,0 +1,8 @@
+---
+layout: post
+title: About
+---
+Hey Flame, here again this time talking about lost data. I recently upgraded my pc(namely my case, ssd, and graphics card)  and as such just to be safe reinstalled windows to clear out old drivers.
+In my energy, I forgot about the un-backed up data that I had. Specifically a game I had spent well over 20 hours working on. Before this I had reminded myself several
+times to push it up to a github repo. Still when the moment came I forgot. I hope that maybe since I used the steam version it may still be on steamcloud but there's no 
+guarentee and to be quite frank I have my doubts. Signing off, Flame
