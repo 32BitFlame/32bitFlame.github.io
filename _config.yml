@@ -4,10 +4,9 @@ description: >-
  Ben AKA 32bitFlame's Programming Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://32bitFlame.github.io"
-github_username:  32bitFlame
+github_username:  32BitFlame
 
-remote_theme: "32bitFlame/beautiful-jekyll"
-minimal_mistakes_skin: "dark"
+remote_theme: "32BitFlame/beautiful-jekyll"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
