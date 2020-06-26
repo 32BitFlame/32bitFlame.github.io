@@ -1,3 +1,7 @@
+---
+layout: post
+title: Setting up TailsOS with Qemu
+---
 Privacy, as I've stated in the past is now hard to come by but the easiest way to retain your anonymity on the web
 is with TailsOS.
 # 0. What is TailsOS
